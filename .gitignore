@@ -1,0 +1,20 @@
+# Игнорирование конфига bundler
+/.bundle
+
+# Default SQLite ignoring
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Logs ignoring
+/log/*.log
+/tmp
+
+# Trash ignoring
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
